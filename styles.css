@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+body {
+  background: linear-gradient(to right, #6e3cca, #2eb16f);
+}
+li {
+    list-style-type: none;
+}
+.tg {
+    width: 10%;
+}
